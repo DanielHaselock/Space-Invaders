@@ -1,0 +1,11 @@
+*.tlog
+*.log
+*.obj
+/Debug/
+/Release/
+x86/
+/x64/Debug/*
+!/x64/Debug/*.dll
+/x64/Release/*
+!/x64/Debug/*.dll
+.vs/
